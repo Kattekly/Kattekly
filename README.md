@@ -3,6 +3,10 @@
 <h3 align="center">Frontend developer from Russia</h3>
 
 <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNTJjYzdhMjJhNmRjMGMyOTg5ZTc4OGNiMjQ5NGNmM2ZkZTJjNyZjdD1n/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="300" height="300"/>
+</div>
+
+<div align="center">
    <h3 align="center">Contacts</h3>
   <a href="https://t.me/K_t_r_n_k" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -10,10 +14,6 @@
   <a href="mailto:kattekly@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
   </a>
-</div>
-
-  <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNTJjYzdhMjJhNmRjMGMyOTg5ZTc4OGNiMjQ5NGNmM2ZkZTJjNyZjdD1n/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="300" height="300"/>
 </div>
 
 <h3 align="center">Stack</h3>
