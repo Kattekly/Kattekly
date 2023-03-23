@@ -13,7 +13,7 @@
 </div>
 
   <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNTJjYzdhMjJhNmRjMGMyOTg5ZTc4OGNiMjQ5NGNmM2ZkZTJjNyZjdD1n/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="400" height="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNTJjYzdhMjJhNmRjMGMyOTg5ZTc4OGNiMjQ5NGNmM2ZkZTJjNyZjdD1n/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="300" height="300"/>
 </div>
 
 <h3 align="center">Stack</h3>
