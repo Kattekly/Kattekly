@@ -12,6 +12,10 @@
   </a>
 </div>
 
+  <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNTJjYzdhMjJhNmRjMGMyOTg5ZTc4OGNiMjQ5NGNmM2ZkZTJjNyZjdD1n/ZqtXbgxEWHV8oF8L9J/giphy.gif" />
+</div>
+
 <h3 align="center">Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react"/>
