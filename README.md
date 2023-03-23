@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Ekaterina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
  
-<h3 align="center">I am a frontend developer from Russia</h3>
+<h3 align="center">Frontend developer from Russia</h3>
 
 <div align="center">
    <h3 align="center">Contacts</h3>
