@@ -8,12 +8,12 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:kattekly@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge" width="400" height="400"/>
+   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
   <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNTJjYzdhMjJhNmRjMGMyOTg5ZTc4OGNiMjQ5NGNmM2ZkZTJjNyZjdD1n/ZqtXbgxEWHV8oF8L9J/giphy.gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNTJjYzdhMjJhNmRjMGMyOTg5ZTc4OGNiMjQ5NGNmM2ZkZTJjNyZjdD1n/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="400" height="400"/>
 </div>
 
 <h3 align="center">Stack</h3>
