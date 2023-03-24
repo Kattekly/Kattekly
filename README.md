@@ -24,7 +24,7 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope:  I like building web applications and exploring new web technologies.
 - :zap: In my free time, I solve problems on Codewars, read tech articles and watch tech videos on Youtube
-- :page_with_curl: Please have a look at my [CV](https://kattekly.github.io/Portfolio/static/media/KozachenkoEkFrontend.54d594cb96e4262718da.pdf) for more details about me. I'm open to feedback and suggestions!
+- :page_with_curl: Please have a look at my [CV](https://kattekly.github.io/Portfolio/static/media/KozachenkoEkFrontend.2b0c6e2067b2ac3539bb.pdf) for more details about me. I'm open to feedback and suggestions!
 
  ---
 
