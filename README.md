@@ -9,14 +9,14 @@
 <div align="center">
    <h3 align="center">Contacts</h3>
   <a href="https://t.me/K_t_r_n_k" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
    <a href="https://www.codewars.com/users/Kattekly">
        <img src="https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
      </a>
  
   <a href="mailto:kattekly@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
+   <img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
