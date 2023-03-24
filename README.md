@@ -3,7 +3,7 @@
 <h3 align="center">Frontend developer from Russia</h3>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjZWM3OGFiM2VmMzhmNzkyYjMxYzI4MmJjNjM4MmIwODAzMTBjYSZjdD1n/PMTN6Ewo7Ms4B3O64n/giphy.gif" width="200" height="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA5ZGRkZmExODg1YWFkOWQ2NDc0MTM5MmFiMWNhNTkzYjkwNGU1ZSZjdD1n/6DLGBWEsjLQk2tcFvE/giphy.gif" width="200" height="200"/>
 </div>
 
 <div align="center">
