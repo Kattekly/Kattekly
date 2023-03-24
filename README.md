@@ -25,4 +25,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :telescope:  I like building web applications and exploring new web technologies.
 
 - :zap: In my free time, I solve problems on Codewars, read tech articles and watch tech videos on Youtube
-- :page_with_curl: Please have a look at my [Portfolio](https://Kattekly.github.io/Portfolio) for more details about me. I'm open to feedback and suggestions!
+- :page_with_curl: Please have a look at my [CV](https://kattekly.github.io/Portfolio/static/media/KozachenkoEkFrontend.2e3d0c64a08fa7716918.pdf) for more details about me. I'm open to feedback and suggestions!
